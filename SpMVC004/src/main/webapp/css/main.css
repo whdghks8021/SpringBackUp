@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+header {
+	background-color: #00aba9;
+	color: #fff;
+	padding: 10px;
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+nav {
+	width: 100%;
+	color: #fff;
+	barckroundcolor: #00aba9;
+}

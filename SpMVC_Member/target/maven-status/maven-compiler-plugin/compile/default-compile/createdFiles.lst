@@ -1,0 +1,5 @@
+com\biz\member\mapper\MemberDao.class
+com\biz\member\service\MemberService.class
+com\biz\member\model\MemberVO.class
+com\biz\member\controller\HomeController.class
+com\biz\member\controller\MemberController.class

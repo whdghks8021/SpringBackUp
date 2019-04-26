@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+label.m_label {
+	
+	display: block;
+	width: 130px;
+	float: left;
+	
+	padding: 8px;
+	text-align: right;
+	
+	font-weight: bold;
+	color: #009688;
+	font-size: 11pt;
+}
+
+.m_box {
+	margin: 3px;	
+	padding: 8px;
+	border: 1px solid #ccc;
+	display: inline-block;
+	width: 80%;
+}
+
+select {
+	font-size: 12pt;
+	color: blue;
+}
+
+.m_hobby_div{
+	margin: 3px;
+	padding: 5px;
+	display: inline-block;
+	width: 80%;
+	border:1px solid #ccc;
+	text-align: left;
+	
+}
+input[type="checkbox"] {
+	position: relative;
+	top: 1.5px;
+}
+.m_hobby_div label {
+	display: inline;
+	padding: 8px;
+	text-align: right;
+	font-weight: normal;
+	color: black;
+	position: relative;
+	top:-1.5px;
+}
+
+button {
+	margin-bottom: 10px;
+	width: 120px;
+}
